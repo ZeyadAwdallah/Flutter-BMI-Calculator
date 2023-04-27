@@ -1,2 +1,2 @@
-It is BMI CALC 
+It is BMI Calculator
 My First Flutter Project 
