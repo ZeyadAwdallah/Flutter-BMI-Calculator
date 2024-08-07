@@ -1,4 +1,4 @@
-# BMI Calculator Flutter App Documentation
+# BMI Calculator Flutter App
 
 ## Overview
 
